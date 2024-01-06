@@ -1,8 +1,7 @@
 # Delivery Report
 
 ##### João Correia, a22202506
-#
-#
+
 ## Project implementation
 
 The goal of this project was to implement a shader in Unity that is capable of rendering Decals on the geometry in the scene, such as walls and floor.
